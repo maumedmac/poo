@@ -1,0 +1,3 @@
+C:\Users\Ecstasy\Documents\SharpDevelop Projects\agregacion\agregacion\obj\Debug\agregacion.csprojResolveAssemblyReference.cache
+C:\Users\Ecstasy\Documents\SharpDevelop Projects\agregacion\agregacion\obj\Debug\agregacion.agregaProvincia.resources
+C:\Users\Ecstasy\Documents\SharpDevelop Projects\agregacion\agregacion\obj\Debug\agregacion.csproj.GenerateResource.Cache

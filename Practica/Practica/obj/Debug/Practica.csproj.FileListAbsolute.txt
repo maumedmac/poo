@@ -1,0 +1,6 @@
+C:\Users\Ecstasy\Documents\SharpDevelop Projects\Practica\Practica\bin\Debug\Practica.exe.config
+C:\Users\Ecstasy\Documents\SharpDevelop Projects\Practica\Practica\bin\Debug\Practica.exe
+C:\Users\Ecstasy\Documents\SharpDevelop Projects\Practica\Practica\bin\Debug\Practica.pdb
+C:\Users\Ecstasy\Documents\SharpDevelop Projects\Practica\Practica\obj\Debug\Practica.csprojResolveAssemblyReference.cache
+C:\Users\Ecstasy\Documents\SharpDevelop Projects\Practica\Practica\obj\Debug\Practica.exe
+C:\Users\Ecstasy\Documents\SharpDevelop Projects\Practica\Practica\obj\Debug\Practica.pdb
